@@ -1,2 +1,2 @@
 Hello testfile3 is edited by dev1
-is it ok
+new line added by dev2
